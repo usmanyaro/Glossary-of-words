@@ -1,0 +1,27 @@
+Gossary of words
+
+* Seismic discontinuity- surface within the Earth at which the seimic wave velocities change.
+
+* Moho- Seismic boundary between the crust and the mantle
+
+* Potential Temperature- The tempereature a percel of mantle would have if it rose to the surface along an adiabatic gradient without melting
+
+* Mantle temperature- Temperature of a mantle material at a particular depth
+
+* Geotherm- temperature as a function of depth in the Earth
+
+* Adiabatic gradient- The temperature gradient due to isentropic decompression, generally characterised by a potential temperature
+
+* Thermal boundary layers- Temperature gradient in a region between non-mixing layers-the lithosphere, transition zone, and core-mantle boundary are examples
+
+* mantle adiabatic temperature gradient- A temperature gradient resulting from change in volume via compression or decompression, but no change in heat (i.e. no conductive heat transfer)
+
+* The Solidus- This is the temperature at which mantle rocks begin to melt
+
+* Seismic tomography- A technique that provides a 3-D image of the crust and uppermost mantle- local tomography studies mainly provides information about the upper and middle crust- regional studies have better resolution within the uppermost mantle
+
+* Receiver function technique- The method is highly effective at determining seismic discontinuities in the crust and uppermost mantle
+
+* Lithosphere- The lithosphere is the rigid outer layer of the Earth. It differs from the underlying asthenosphere interms of its mechanical (or rheological i.e. flow) properties rather than its chemical composition
+ 
+
