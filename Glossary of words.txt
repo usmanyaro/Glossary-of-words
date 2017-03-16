@@ -1,16 +1,16 @@
-Gossary of words
+Glossary of words (So some of these you will want to keep short like this), but some of them you need to (over time) develop into multiple sentences / paragraphs / sections.  Once they become really big, you might move them into a separate file.
 
 * Seismic discontinuity- surface within the Earth at which the seimic wave velocities change.
 
 * Moho- Seismic boundary between the crust and the mantle
 
-* Potential Temperature- The tempereature a percel of mantle would have if it rose to the surface along an adiabatic gradient without melting
+* Potential Temperature- The temperature a parcel of mantle would have if it rose to the surface along an adiabatic gradient without melting (Ok, so this is one of the ones where I would like to see more information - the definition is fine, but add in comments on what people think is a reasonable range - what evidence do they give for it varyong)
 
 * Mantle temperature- Temperature of a mantle material at a particular depth
 
 * Geotherm- temperature as a function of depth in the Earth
 
-* Adiabatic gradient- The temperature gradient due to isentropic decompression, generally characterised by a potential temperature
+* Adiabatic gradient- The temperature gradient due to isentropic decompression, generally characterised by a potential temperature (How can a temperature gradient be characterised by the potential temperature.  Gradients will be degC/km, whereas potential temperature is just a single value.  What is the estimate of the adiabatic gradient in the upper mantle?
 
 * Thermal boundary layers- Temperature gradient in a region between non-mixing layers-the lithosphere, transition zone, and core-mantle boundary are examples
 
@@ -22,6 +22,6 @@ Gossary of words
 
 * Receiver function technique- The method is highly effective at determining seismic discontinuities in the crust and uppermost mantle
 
-* Lithosphere- The lithosphere is the rigid outer layer of the Earth. It differs from the underlying asthenosphere interms of its mechanical (or rheological i.e. flow) properties rather than its chemical composition
+* Lithosphere- The lithosphere is the rigid outer layer of the Earth. It differs from the underlying asthenosphere interms of its mechanical (or rheological i.e. flow) properties rather than its chemical composition.  (Lots of complexity here).
  
 
